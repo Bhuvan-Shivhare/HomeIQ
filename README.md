@@ -17,3 +17,4 @@ This project is the companion to my YouTube series "Home Automation App in Flutt
 🏠 Multi-Device Deployment – any device around the house can act as a hub to manage room-specific appliances.
 
 This project combines hardware + software + design to create a truly smart living experience.
+<img width="1687" height="822" alt="image" src="https://github.com/user-attachments/assets/14930dfc-5642-4172-81a6-ab9eaa94a9dd" />
